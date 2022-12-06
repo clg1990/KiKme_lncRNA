@@ -1,11 +1,9 @@
 # KiKme_lncRNA
 
-## Supplementary resources
-
-# Authors of the associated Manuscript
+## Authors of the associated Manuscript
 > Caine Lucas Grandt, Lara Kim Brackmann, Alicia Poplawski, Heike Schwarz, Federico Marini, Thomas Hankeln, Danuta Galetzka, Sebastian Zahnreich, Johanna Mirsch, Claudia Spix, Maria Blettner, Heinz Schmidberger, Manuela Marron
 
-# Associated Manuscript 
+## Associated Manuscript 
 > Identification of lncRNAs involved in response to ionizing radiation in fibroblasts of long-term survivors of childhood cancer and cancer cancer-free controls: the KiKme Study
 
 ## How to use this repository
