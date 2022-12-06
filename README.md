@@ -2,7 +2,7 @@
 
 ## Supplementary resources
 
-# Authors of the associated Manuscripts
+# Authors of the associated Manuscript
 > Caine Lucas Grandt, Lara Kim Brackmann, Alicia Poplawski, Heike Schwarz, Federico Marini, Thomas Hankeln, Danuta Galetzka, Sebastian Zahnreich, Johanna Mirsch, Claudia Spix, Maria Blettner, Heinz Schmidberger, Manuela Marron
 
 # Associated Manuscript 
